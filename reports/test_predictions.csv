@@ -1,0 +1,91 @@
+query,candidate,label,family,split,candidate_id,pair_score,prediction
+THE CITY CHRONICLE!,The City Chronicle,1,city,test,T004,0.991780009806144,1
+City Chronicle,The City Chronicle,1,city,test,T004,0.7859141125488283,1
+Chronicle City The,The City Chronicle,1,city,test,T004,0.851820519989757,1
+The City Chronicel,The City Chronicle,1,city,test,T004,0.7702947180809021,1
+The City Chronicle,The City Herald,0,city,test,T005,0.0989066585905025,0
+The City Chronicle,The Mountain Chronicle,0,city,test,T013,0.14548297445719954,0
+THE CITY HERALD!,The City Herald,1,city,test,T005,0.991780009806144,1
+City Herald,The City Herald,1,city,test,T005,0.6992654623981932,0
+Herald City The,The City Herald,1,city,test,T005,0.648886981244018,0
+The City Heradl,The City Herald,1,city,test,T005,0.71342202232747,0
+The City Herald,The City Chronicle,0,city,test,T004,0.09066780837782105,0
+The City Herald,The Mountain Herald,0,city,test,T014,0.08493895201432461,0
+THE CITY REVIEW!,The City Review,1,city,test,T006,0.991780009806144,1
+City Review,The City Review,1,city,test,T006,0.6992654623981932,0
+Review City The,The City Review,1,city,test,T006,0.648886981244018,0
+The City Reviwe,The City Review,1,city,test,T006,0.71342202232747,0
+The City Review,The City Chronicle,0,city,test,T004,0.09066780837782105,0
+The City Review,The Mountain Review,0,city,test,T015,0.08493895201432461,0
+THE MOUNTAIN CHRONICLE!,The Mountain Chronicle,1,mountain,test,T013,0.991780009806144,1
+Mountain Chronicle,The Mountain Chronicle,1,mountain,test,T013,0.8453055977214747,1
+Chronicle Mountain The,The Mountain Chronicle,1,mountain,test,T013,0.9098240100770972,1
+The Mountain Chronicel,The Mountain Chronicle,1,mountain,test,T013,0.814694389574639,1
+The Mountain Chronicle,The Mountain Herald,0,mountain,test,T014,0.19287744531278952,0
+The Mountain Chronicle,The City Chronicle,0,mountain,test,T004,0.14548297445719954,0
+THE MOUNTAIN HERALD!,The Mountain Herald,1,mountain,test,T014,0.991780009806144,1
+Mountain Herald,The Mountain Herald,1,mountain,test,T014,0.8049092179831874,1
+Herald Mountain The,The Mountain Herald,1,mountain,test,T014,0.8472819404721816,1
+The Mountain Heradl,The Mountain Herald,1,mountain,test,T014,0.7838719139047136,1
+The Mountain Herald,The Mountain Chronicle,0,mountain,test,T013,0.1811241393309789,0
+The Mountain Herald,The City Herald,0,mountain,test,T005,0.08493895201432461,0
+THE MOUNTAIN REVIEW!,The Mountain Review,1,mountain,test,T015,0.991780009806144,1
+Mountain Review,The Mountain Review,1,mountain,test,T015,0.8049092179831874,1
+Review Mountain The,The Mountain Review,1,mountain,test,T015,0.8244179995940892,1
+The Mountain Reviwe,The Mountain Review,1,mountain,test,T015,0.7838719139047136,1
+The Mountain Review,The Mountain Chronicle,0,mountain,test,T013,0.1811241393309789,0
+The Mountain Review,The City Review,0,mountain,test,T006,0.08493895201432461,0
+THE EASTERN CHRONICLE!,The Eastern Chronicle,1,eastern,test,T025,0.991780009806144,1
+Eastern Chronicle,The Eastern Chronicle,1,eastern,test,T025,0.8340135249903154,1
+Chronicle Eastern The,The Eastern Chronicle,1,eastern,test,T025,0.9010774706872603,1
+The Eastern Chronicel,The Eastern Chronicle,1,eastern,test,T025,0.8057725372102105,1
+The Eastern Chronicle,The Eastern Herald,0,eastern,test,T026,0.16774612640040598,0
+The Eastern Chronicle,The City Chronicle,0,eastern,test,T004,0.16774612640040598,0
+THE EASTERN HERALD!,The Eastern Herald,1,eastern,test,T026,0.991780009806144,1
+Eastern Herald,The Eastern Herald,1,eastern,test,T026,0.7859141125488283,1
+Herald Eastern The,The Eastern Herald,1,eastern,test,T026,0.8278029098252583,1
+The Eastern Heradl,The Eastern Herald,1,eastern,test,T026,0.7702947180809021,1
+The Eastern Herald,The Eastern Chronicle,0,eastern,test,T025,0.15670116918329396,0
+The Eastern Herald,The City Herald,0,eastern,test,T005,0.0989066585905025,0
+THE EASTERN REVIEW!,The Eastern Review,1,eastern,test,T027,0.991780009806144,1
+Eastern Review,The Eastern Review,1,eastern,test,T027,0.7859141125488283,1
+Review Eastern The,The Eastern Review,1,eastern,test,T027,0.8012294794766811,1
+The Eastern Reviwe,The Eastern Review,1,eastern,test,T027,0.7702947180809021,1
+The Eastern Review,The Eastern Chronicle,0,eastern,test,T025,0.15670116918329396,0
+The Eastern Review,The City Review,0,eastern,test,T006,0.0989066585905025,0
+THE STUDENT CHRONICLE!,The Student Chronicle,1,student,test,T040,0.991780009806144,1
+Student Chronicle,The Student Chronicle,1,student,test,T040,0.8340135249903154,1
+Chronicle Student The,The Student Chronicle,1,student,test,T040,0.9010774706872603,1
+The Student Chronicel,The Student Chronicle,1,student,test,T040,0.8057725372102105,1
+The Student Chronicle,The Student Herald,0,student,test,T041,0.16774612640040598,0
+The Student Chronicle,The City Chronicle,0,student,test,T004,0.16774612640040598,0
+THE STUDENT HERALD!,The Student Herald,1,student,test,T041,0.991780009806144,1
+Student Herald,The Student Herald,1,student,test,T041,0.7859141125488283,1
+Herald Student The,The Student Herald,1,student,test,T041,0.8278029098252583,1
+The Student Heradl,The Student Herald,1,student,test,T041,0.7702947180809021,1
+The Student Herald,The Student Chronicle,0,student,test,T040,0.15670116918329396,0
+The Student Herald,The City Herald,0,student,test,T005,0.0989066585905025,0
+THE STUDENT REVIEW!,The Student Review,1,student,test,T042,0.991780009806144,1
+Student Review,The Student Review,1,student,test,T042,0.7859141125488283,1
+Review Student The,The Student Review,1,student,test,T042,0.8012294794766811,1
+The Student Reviwe,The Student Review,1,student,test,T042,0.7702947180809021,1
+The Student Review,The Student Chronicle,0,student,test,T040,0.15670116918329396,0
+The Student Review,The City Review,0,student,test,T006,0.0989066585905025,0
+THE SPORTS CHRONICLE!,The Sports Chronicle,1,sports,test,T064,0.991780009806144,1
+Sports Chronicle,The Sports Chronicle,1,sports,test,T064,0.8207179596724343,1
+Chronicle Sports The,The Sports Chronicle,1,sports,test,T064,0.8652229814319061,1
+The Sports Chronicel,The Sports Chronicle,1,sports,test,T064,0.7955862108438234,1
+The Sports Chronicle,The Sports Herald,0,sports,test,T065,0.14347819382543184,0
+The Sports Chronicle,The City Chronicle,0,sports,test,T004,0.19480642374671678,0
+THE SPORTS HERALD!,The Sports Herald,1,sports,test,T065,0.991780009806144,1
+Sports Herald,The Sports Herald,1,sports,test,T065,0.7628371950022891,1
+Herald Sports The,The Sports Herald,1,sports,test,T065,0.8039959730057078,1
+The Sports Heradl,The Sports Herald,1,sports,test,T065,0.7544251788624553,1
+The Sports Herald,The Sports Chronicle,0,sports,test,T064,0.13326588888097082,0
+The Sports Herald,The City Herald,0,sports,test,T005,0.11650916079664086,0
+THE SPORTS REVIEW!,The Sports Review,1,sports,test,T066,0.991780009806144,1
+Sports Review,The Sports Review,1,sports,test,T066,0.7628371950022891,1
+Review Sports The,The Sports Review,1,sports,test,T066,0.772935052931067,1
+The Sports Reviwe,The Sports Review,1,sports,test,T066,0.7544251788624553,1
+The Sports Review,The Sports Chronicle,0,sports,test,T064,0.13326588888097082,0
+The Sports Review,The City Review,0,sports,test,T006,0.11650916079664086,0
